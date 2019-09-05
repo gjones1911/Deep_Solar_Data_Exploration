@@ -1,0 +1,147 @@
+There are 53529 PV adopters adopting census tracts.
+These have a total of 1277794 PV installations with an census tract average of 23.871061
+This is 73.80% of the TN census tracts
+
+There are 19885 High adoption adopting census tracts.
+These have a total of 1171193 PV installations with an census tract average of 58.898315
+This is 27.41% of the TN census tracts
+
+There are 33644 Moderate adoption adopting census tracts.
+These have a total of 106601 PV installations with an census tract average of 3.168500
+This is 46.38% of the TN census tracts
+
+There are 19008 Non-adoption adopting census tracts.
+These have a total of 0 PV installations with an census tract average of 0.000000
+This is 26.20% of the TN census tracts
+
+US averages
+The avg is 20.217957731916126 for solar_system_count
+The avg is 57655.4154233026 for total_panel_area_residential
+The avg is 21.45692543115927 for solar_panel_area_divided_by_area
+The avg is 455.67100892399355 for solar_system_count_residential
+The avg is 8.084674028426871 for number_of_solar_system_per_household
+The avg is 73314.41809498005 for average_household_income
+The avg is 4333.978135296469 for per_capita_income
+The avg is 10.887436067110578 for median_household_income
+The avg is 1004.5148169668797 for housing_unit_count
+The avg is 224799.60593406283 for average_household_size
+The avg is -91.45212389300966 for housing_unit_median_value
+The avg is 13.94948827451862 for daily_solar_radiation
+The avg is 1058.4811337662159 for poverty_family_below_poverty_level
+The avg is 215.91433337469152 for poverty_family_count
+The avg is 0.35757611275957973 for poverty_family_below_poverty_level_rate
+
+PV adopters
+The avg is 27.309533150255003 for solar_system_count
+The avg is 617.4785251792434 for total_panel_area_residential
+The avg is 487.2939953151219 for solar_panel_area_divided_by_area
+The avg is 23.87106054661959 for solar_system_count_residential
+The avg is inf for number_of_solar_system_per_household
+The avg is 77839.26690891518 for average_household_income
+The avg is 30218.332490210407 for per_capita_income
+The avg is 61318.35198586493 for median_household_income
+The avg is 1913.1705804330363 for housing_unit_count
+The avg is 2.677241178678678 for average_household_size
+The avg is 246452.08245973868 for housing_unit_median_value
+The avg is 4.322393172763857 for daily_solar_radiation
+The avg is 119.07272693306432 for poverty_family_below_poverty_level
+The avg is 1129.992527415046 for poverty_family_count
+The avg is 0.11841590121897877 for poverty_family_below_poverty_level_rate
+
+High adoption states
+The avg is 66.28066381694745 for solar_system_count
+The avg is 1534.39744196185 for total_panel_area_residential
+The avg is 1160.115743629366 for solar_panel_area_divided_by_area
+The avg is 58.89831531305004 for solar_system_count_residential
+The avg is inf for number_of_solar_system_per_household
+The avg is 89931.43171154885 for average_household_income
+The avg is 33763.867364922706 for per_capita_income
+The avg is 71404.01572739187 for median_household_income
+The avg is 2007.6353029922052 for housing_unit_count
+The avg is 2.8234606085029217 for average_household_size
+The avg is 334615.72513287776 for housing_unit_median_value
+The avg is 4.650874492195852 for daily_solar_radiation
+The avg is 110.32496856927332 for poverty_family_below_poverty_level
+The avg is 1244.3026904702037 for poverty_family_count
+The avg is 0.09504678547405804 for poverty_family_below_poverty_level_rate
+
+Moderate adoption states
+The avg is 4.275977886101534 for solar_system_count
+The avg is 75.54139938498196 for total_panel_area_residential
+The avg is 89.68204671270672 for solar_panel_area_divided_by_area
+The avg is 3.168499583878255 for solar_system_count_residential
+The avg is inf for number_of_solar_system_per_household
+The avg is 70653.19645833968 for average_household_income
+The avg is 28117.396252312465 for per_capita_income
+The avg is 55321.30743638162 for median_household_income
+The avg is 1857.338009749138 for housing_unit_count
+The avg is 2.5904053488093814 for average_household_size
+The avg is 193515.30968663568 for housing_unit_median_value
+The avg is 4.1224898344230825 for daily_solar_radiation
+The avg is 124.24301509927476 for poverty_family_below_poverty_level
+The avg is 1062.4304779455474 for poverty_family_count
+The avg is 0.13229835037117724 for poverty_family_below_poverty_level_rate
+
+Non-adoption states
+The avg is 0.2471590909090909 for solar_system_count
+The avg is 0.0 for total_panel_area_residential
+The avg is 0.0 for solar_panel_area_divided_by_area
+The avg is 0.0 for solar_system_count_residential
+The avg is 0.0 for number_of_solar_system_per_household
+The avg is 60225.86209730727 for average_household_income
+The avg is 24249.019275417093 for per_capita_income
+The avg is 47052.450731813486 for median_household_income
+The avg is 1583.8405934343434 for housing_unit_count
+The avg is 2.5893631091116047 for average_household_size
+The avg is 161413.11547228554 for housing_unit_median_value
+The avg is 4.059754136295268 for daily_solar_radiation
+The avg is 123.70165193602693 for poverty_family_below_poverty_level
+The avg is 857.0957491582492 for poverty_family_count
+The avg is 0.158939015450553 for poverty_family_below_poverty_level_rate
+
+fips solar_system_count average_household_income county education_college education_high_school_graduate education_less_than_high_school education_population employed unemployed population population density state heating_fuel_solar
+
+SOUTHERN COMPANY SERVICES, INC. - TRANS Covers 4 states
+They are 
+ ['FL', 'AL', 'GA', 'MS']
+PJM INTERCONNECTION, LLC Covers 14 states
+They are 
+ ['WV', 'OH', 'PA', 'DE', 'IL', 'VA', 'MD', 'KY', 'NJ', 'NY', 'MI', 'IN', 'DC', 'NC']
+DUKE ENERGY CAROLINAS Covers 2 states
+They are 
+ ['NC', 'SC']
+DUKE ENERGY PROGRESS EAST Covers 2 states
+They are 
+ ['NC', 'SC']
+TENNESSEE VALLEY AUTHORITY Covers 7 states
+They are 
+ ['VA', 'GA', 'MS', 'KY', 'AL', 'TN', 'NC']
+NOT AVAILABLE Covers 16 states
+They are 
+ ['TX', 'PR', 'AK', 'AB', 'IL', 'RI', 'HI', 'KY', 'ME', 'WI', 'WA', 'OK', 'MI', 'BC', 'NC', 'CA']
+LOUISVILLE GAS AND ELECTRIC COMPANY AND KENTUCKY UTILITIES Covers 1 states
+They are 
+ ['KY']
+POWERSOUTH ENERGY COOPERATIVE Covers 2 states
+They are 
+ ['AL', 'FL']
+MIDCONTINENT INDEPENDENT TRANSMISSION SYSTEM OPERATOR, INC.. Covers 16 states
+They are 
+ ['TX', 'PA', 'MN', 'IL', 'IA', 'ND', 'AR', 'LA', 'MS', 'KS', 'KY', 'WI', 'SD', 'MI', 'IN', 'MO']
+PROGRESS ENERGY CAROLINAS - EAST Covers 1 states
+They are 
+ ['NC']
+SOUTHEASTERN POWER ADMINISTRATION Covers 1 states
+They are 
+ ['GA']
+The states we need are: 
+{'PR', 'PA', 'MN', 'KS', 'GA', 'ME', 'AL', 'MI', 'IN', 'DC', 'BC', 'FL', 'WV', 'OH', 'SC', 'IL', 'VA', 'ND', 'LA', 'MS', 'NJ', 'WA', 'SD', 'DE', 'MO', 'CA', 'TX', 'AK', 'RI', 'IA', 'AR', 'HI', 'NY', 'WI', 'AB', 'MD', 'KY', 'TN', 'OK', 'NC'}
+
+
+
+Perspective.Private Governance Response to Climate Change Part 1.docx
+
+
+
+
+

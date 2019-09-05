@@ -1,0 +1,80 @@
+There are 18 High adoption adopting census tracts.
+These have a total of 271 PV installations with an census tract average of 15.055556
+This is 1.20% of the TN census tracts
+
+There are 845 Moderate adoption adopting census tracts.
+These have a total of 2071 PV installations with an census tract average of 2.450888
+This is 56.45% of the TN census tracts
+
+There are 634 Non-adoption adopting census tracts.
+These have a total of 0 PV installations with an census tract average of 0.000000
+This is 42.35% of the TN census tracts
+
+
+TN averages
+The avg is 2.576486305945224 for solar_system_count
+The avg is 47328.083616587355 for total_panel_area_residential
+The avg is 1.7314629258517034 for solar_panel_area_divided_by_area
+The avg is 39.842440313961255 for solar_system_count_residential
+The avg is 19.0 for number_of_solar_system_per_household
+The avg is 61544.845658967395 for average_household_income
+The avg is 4341.760187040748 for per_capita_income
+The avg is 10.159999999999998 for median_household_income
+The avg is 145850.20547945207 for housing_unit_count
+The avg is 1673.0501002004007 for average_household_size
+The avg is 35.81578524470416 for housing_unit_median_value
+The avg is 3.486778670562454 for daily_solar_radiation
+The avg is 1112.5217100868404 for poverty_family_below_poverty_level
+The avg is 68.15430861723446 for poverty_family_count
+The avg is 0.5898579979661017 for poverty_family_below_poverty_level_rate
+
+High adoption states
+The avg is 23.555555555555557 for solar_system_count
+The avg is 407.36737222222223 for total_panel_area_residential
+The avg is 84.56661100000002 for solar_panel_area_divided_by_area
+The avg is 15.055555555555555 for solar_system_count_residential
+The avg is inf for number_of_solar_system_per_household
+The avg is 96204.46705882352 for average_household_income
+The avg is 39053.22222222222 for per_capita_income
+The avg is 64551.35294117647 for median_household_income
+The avg is 2502.1111111111113 for housing_unit_count
+The avg is 2.3717647058823528 for average_household_size
+The avg is 259188.23529411765 for housing_unit_median_value
+The avg is 4.13125 for daily_solar_radiation
+The avg is 122.83333333333333 for poverty_family_below_poverty_level
+The avg is 1327.388888888889 for poverty_family_count
+The avg is 0.10093241176470587 for poverty_family_below_poverty_level_rate
+
+Moderate adoption states
+The avg is 3.830769230769231 for solar_system_count
+The avg is 61.90712479289941 for total_panel_area_residential
+The avg is 20.689562323076924 for solar_panel_area_divided_by_area
+The avg is 2.450887573964497 for solar_system_count_residential
+The avg is inf for number_of_solar_system_per_household
+The avg is 66546.56543269231 for average_household_income
+The avg is 26517.405017921148 for per_capita_income
+The avg is 51256.285198555954 for median_household_income
+The avg is 2045.6414201183431 for housing_unit_count
+The avg is 2.5197358943577437 for average_household_size
+The avg is 162021.41119221412 for housing_unit_median_value
+The avg is 4.109295039164492 for daily_solar_radiation
+The avg is 145.65325443786983 for poverty_family_below_poverty_level
+The avg is 1209.3917159763314 for poverty_family_count
+The avg is 0.13893001923076922 for poverty_family_below_poverty_level_rate
+
+Non-adoption states
+The avg is 0.30914826498422715 for solar_system_count
+The avg is 0.0 for total_panel_area_residential
+The avg is 0.0 for solar_panel_area_divided_by_area
+The avg is 0.0 for solar_system_count_residential
+The avg is 0.0 for number_of_solar_system_per_household
+The avg is 53919.413210272876 for average_household_income
+The avg is 21639.26357827476 for per_capita_income
+The avg is 41618.40288924558 for median_household_income
+The avg is 1704.9479495268138 for housing_unit_count
+The avg is 2.558752 for average_household_size
+The avg is 121342.19001610306 for housing_unit_median_value
+The avg is 4.120511073253834 for daily_solar_radiation
+The avg is 149.82649842271294 for poverty_family_below_poverty_level
+The avg is 977.3123028391167 for poverty_family_count
+The avg is 0.16679720032051285 for poverty_family_below_poverty_level_rate

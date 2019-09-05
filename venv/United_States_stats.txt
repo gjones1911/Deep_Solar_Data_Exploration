@@ -1,0 +1,4 @@
+avg,solar_system_count_residential,17.62
+std,solar_system_count_residential,48.97
+avg,total_panel_area_residential,455.67
+std,total_panel_area_residential,1321.02
